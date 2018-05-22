@@ -7,7 +7,7 @@ if(LIB_INIT_FOUND)
         HEADERS
             MLSMapKalmanExporter.hpp
             MLSMapPrecalculatedExporter.hpp
-        DEPS_PKGCONFIG
-            envire_maps-init
+#        DEPS_PKGCONFIG
+#            envire_maps-init
     )
 endif()
